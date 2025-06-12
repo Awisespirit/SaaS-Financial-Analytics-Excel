@@ -1,0 +1,51 @@
+CustomerID,CompanyName,SubscriptionDate,Plan,MonthlyRevenue,Status,ChurnDate,Industry,Employees
+CUST001,TechFlow Solutions,2023-01-15,Enterprise,500,Active,,Technology,250
+CUST002,DataDriven Inc,2023-01-20,Professional,150,Active,,Analytics,75
+CUST003,StartupHub,2023-02-01,Basic,50,Churned,2024-01-15,Marketing,15
+CUST004,FinanceFirst Corp,2023-02-10,Enterprise,500,Active,,Finance,180
+CUST005,HealthTech Pro,2023-02-15,Professional,150,Active,,Healthcare,95
+CUST006,RetailMax Chain,2023-03-01,Enterprise,750,Active,,Retail,420
+CUST007,EduSoft Systems,2023-03-05,Professional,150,Active,,Education,65
+CUST008,SmallBiz Tools,2023-03-10,Basic,50,Active,,Consulting,8
+CUST009,ManufacturePlus,2023-03-15,Enterprise,500,Active,,Manufacturing,315
+CUST010,ServiceDesk Pro,2023-04-01,Professional,150,Churned,2024-02-20,Services,45
+CUST011,CloudFirst Ltd,2023-04-05,Enterprise,500,Active,,Technology,190
+CUST012,DataAnalytics Hub,2023-04-10,Professional,150,Active,,Analytics,82
+CUST013,StartupLaunch,2023-04-15,Basic,50,Active,,Technology,12
+CUST014,FinancialServices Corp,2023-05-01,Enterprise,750,Active,,Finance,280
+CUST015,MedTech Solutions,2023-05-05,Professional,150,Active,,Healthcare,110
+CUST016,RetailCloud,2023-05-10,Basic,50,Active,,Retail,25
+CUST017,EduPlatform Inc,2023-05-15,Professional,150,Active,,Education,70
+CUST018,ConsultingEdge,2023-06-01,Basic,50,Churned,2024-03-10,Consulting,18
+CUST019,IndustrialTech,2023-06-05,Enterprise,500,Active,,Manufacturing,350
+CUST020,SupportSystems,2023-06-10,Professional,150,Active,,Services,55
+CUST021,TechInnovate,2023-07-01,Enterprise,750,Active,,Technology,220
+CUST022,AnalyticsFirst,2023-07-05,Professional,150,Active,,Analytics,88
+CUST023,GrowthStartup,2023-07-10,Basic,50,Active,,Marketing,22
+CUST024,BankTech Solutions,2023-07-15,Enterprise,500,Active,,Finance,195
+CUST025,HealthDataPro,2023-08-01,Professional,150,Active,,Healthcare,125
+CUST026,ShopTech Systems,2023-08-05,Enterprise,500,Active,,Retail,280
+CUST027,LearningPlatform,2023-08-10,Professional,150,Active,,Education,75
+CUST028,BusinessConsult,2023-08-15,Basic,50,Active,,Consulting,14
+CUST029,ProductionTech,2023-09-01,Enterprise,750,Active,,Manufacturing,390
+CUST030,CustomerFirst,2023-09-05,Professional,150,Active,,Services,62
+CUST031,InnovationLab,2023-09-10,Enterprise,500,Active,,Technology,165
+CUST032,InsightAnalytics,2023-09-15,Professional,150,Active,,Analytics,91
+CUST033,ScaleUpCorp,2023-10-01,Basic,50,Active,,Technology,28
+CUST034,WealthManagement,2023-10-05,Enterprise,750,Active,,Finance,210
+CUST035,ClinicalTech,2023-10-10,Professional,150,Active,,Healthcare,135
+CUST036,CommerceCloud,2023-10-15,Enterprise,500,Active,,Retail,320
+CUST037,EdTechFuture,2023-11-01,Professional,150,Active,,Education,80
+CUST038,StrategyConsult,2023-11-05,Basic,50,Active,,Consulting,16
+CUST039,AutomationTech,2023-11-10,Enterprise,500,Active,,Manufacturing,275
+CUST040,ServiceExcellence,2023-11-15,Professional,150,Active,,Services,68
+CUST041,TechDisruptor,2023-12-01,Enterprise,750,Active,,Technology,240
+CUST042,DataScience Corp,2023-12-05,Professional,150,Active,,Analytics,95
+CUST043,StartupAccel,2023-12-10,Basic,50,Active,,Marketing,35
+CUST044,DigitalBank,2023-12-15,Enterprise,500,Active,,Finance,185
+CUST045,HealthInnovate,2024-01-01,Professional,150,Active,,Healthcare,115
+CUST046,RetailFuture,2024-01-05,Enterprise,500,Active,,Retail,295
+CUST047,EduTechPro,2024-01-10,Professional,150,Active,,Education,85
+CUST048,ConsultPro,2024-01-15,Basic,50,Active,,Consulting,20
+CUST049,SmartManufacture,2024-01-20,Enterprise,750,Active,,Manufacturing,405
+CUST050,PremiumService,2024-02-01,Professional,150,Active,,Services,72

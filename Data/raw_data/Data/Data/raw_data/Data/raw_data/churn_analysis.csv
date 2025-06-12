@@ -1,0 +1,9 @@
+CustomerID,ChurnDate,ChurnReason,MonthsActive,TotalRevenue,LastLoginDate,SupportTickets,FeatureUsage
+CUST003,2024-01-15,Price,11,550,2023-12-20,8,Low
+CUST010,2024-02-20,Competition,10,1500,2024-01-15,3,Medium
+CUST018,2024-03-10,Lack of Features,9,450,2024-02-25,12,Low
+CUST025,2024-04-05,Support Issues,12,1800,2024-03-20,15,Medium
+CUST031,2024-05-12,Budget Cuts,8,4000,2024-04-28,2,High
+CUST037,2024-06-18,Better Alternative,7,1050,2024-05-30,6,Low
+CUST042,2024-07-22,Company Closure,6,900,2024-06-15,1,Low
+CUST045,2024-08-14,Feature Gaps,7,1050,2024-07-28,9,Medium

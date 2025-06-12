@@ -1,0 +1,51 @@
+CustomerID,CompanySize,AnnualRevenue,Location,DecisionMaker,ContractLength,PaymentTerms,RiskScore
+CUST001,Medium,5000000,New York,CTO,12,Monthly,0.15
+CUST002,Small,1500000,California,CEO,12,Annual,0.25
+CUST003,Small,500000,Texas,Marketing Director,6,Monthly,0.85
+CUST004,Medium,8000000,Florida,CFO,24,Annual,0.10
+CUST005,Small,2000000,Illinois,CTO,12,Monthly,0.20
+CUST006,Large,25000000,New York,CIO,36,Annual,0.05
+CUST007,Small,1800000,Washington,CEO,12,Monthly,0.30
+CUST008,Small,300000,Oregon,Owner,6,Monthly,0.75
+CUST009,Large,15000000,Michigan,CTO,24,Annual,0.12
+CUST010,Small,1200000,Ohio,IT Director,12,Monthly,0.65
+CUST011,Medium,6000000,Georgia,CTO,12,Annual,0.18
+CUST012,Small,2200000,North Carolina,CEO,12,Monthly,0.22
+CUST013,Small,400000,Virginia,Founder,6,Monthly,0.70
+CUST014,Large,18000000,Pennsylvania,CFO,36,Annual,0.08
+CUST015,Medium,3500000,Arizona,CTO,12,Monthly,0.25
+CUST016,Small,800000,Colorado,Owner,6,Monthly,0.60
+CUST017,Small,2100000,Nevada,CEO,12,Annual,0.28
+CUST018,Small,600000,Utah,Consultant,6,Monthly,0.80
+CUST019,Large,22000000,Tennessee,CIO,24,Annual,0.10
+CUST020,Small,1600000,Louisiana,IT Manager,12,Monthly,0.35
+CUST021,Medium,7500000,Indiana,CTO,12,Annual,0.15
+CUST022,Small,2400000,Missouri,CEO,12,Monthly,0.20
+CUST023,Small,750000,Wisconsin,Marketing Head,6,Monthly,0.55
+CUST024,Medium,9000000,Minnesota,CFO,24,Annual,0.12
+CUST025,Medium,4000000,Iowa,CTO,12,Monthly,0.22
+CUST026,Large,16000000,Kansas,CIO,36,Annual,0.08
+CUST027,Small,2300000,Nebraska,CEO,12,Monthly,0.30
+CUST028,Small,450000,South Dakota,Owner,6,Monthly,0.72
+CUST029,Large,28000000,North Dakota,CTO,24,Annual,0.06
+CUST030,Small,1800000,Montana,Service Director,12,Monthly,0.32
+CUST031,Medium,5500000,Wyoming,CTO,12,Annual,0.18
+CUST032,Small,2600000,Idaho,CEO,12,Monthly,0.25
+CUST033,Small,950000,Alaska,Founder,6,Monthly,0.50
+CUST034,Large,20000000,Hawaii,CFO,36,Annual,0.09
+CUST035,Medium,4200000,Maine,CTO,12,Monthly,0.24
+CUST036,Large,19000000,Vermont,CIO,24,Annual,0.11
+CUST037,Small,2500000,New Hampshire,CEO,12,Monthly,0.28
+CUST038,Small,520000,Rhode Island,Consultant,6,Monthly,0.68
+CUST039,Large,17000000,Connecticut,CTO,24,Annual,0.13
+CUST040,Small,2000000,Delaware,Service Manager,12,Monthly,0.30
+CUST041,Large,26000000,Maryland,CIO,36,Annual,0.07
+CUST042,Small,2800000,Massachusetts,CEO,12,Monthly,0.20
+CUST043,Small,1100000,New Jersey,Marketing VP,6,Monthly,0.45
+CUST044,Medium,11000000,South Carolina,CFO,24,Annual,0.14
+CUST045,Medium,3800000,West Virginia,CTO,12,Monthly,0.26
+CUST046,Large,21000000,Kentucky,CIO,24,Annual,0.10
+CUST047,Small,2700000,Alabama,CEO,12,Monthly,0.25
+CUST048,Small,650000,Mississippi,Owner,6,Monthly,0.62
+CUST049,Large,32000000,Arkansas,CTO,36,Annual,0.05
+CUST050,Small,2200000,Oklahoma,Service Director,12,Monthly,0.28
